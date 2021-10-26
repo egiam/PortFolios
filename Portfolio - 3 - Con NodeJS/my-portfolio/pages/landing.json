@@ -1,0 +1,25 @@
+{
+    "hero": {
+        "greeting": "Welcome!",
+        "introduction": "My name Bill. I am a full stack software developer. I am excited to work on your project!",
+        "img_profile": "https://lh3.googleusercontent.com/VV28k6qA30-6tmrQnKf4qIJbjBHKTWJfupnz_O4NeEBozJ7jtzya3uZAE_cRALod2nHa_Ag8mEi0DCp6hf7lHlH1n5Y",
+        "img_background": "https://lh3.googleusercontent.com/fowLOFFa8EgoIpX1VwFHrCO2CcA7ckRUwggsNAo6E6eE82nFBVEbEW7g35nebGipJ5KnFyodazl9tiw9zxmPmR92dg"
+    },
+    "projects": {
+        "header": "My Projects",
+        "subheader": "Take a look at my most recent work!"
+    },
+    "service": {
+        "img_1": "https://lh3.googleusercontent.com/gZw2gibFTxpbeh3Ib9NDIZomVup18pX27yBJb7PVvLT-ickH9EsbFjcs0VhQQYJ_LT9mUUnJjRarz_CaZDxoRsP7",
+        "img_2": "https://lh3.googleusercontent.com/t4qKJLlVGyrQDwvUH6R9fDE9_J3gYgwL7qEoogrCuFLGn2Kkv0XEsj4-_bPXiYJP0JMZ6cuvHueX2M79vEJTjFFfASY",
+        "img_3": "https://lh3.googleusercontent.com/uOsmQSUxTHHpkXB2B-MJk5FJK16xSEmmr_8qcbjXpkfg7udbyjYugMTe9Thq7fa3iMQe94TmcxKGKt20Jxk3m3b0ow",
+        "img_4": "https://lh3.googleusercontent.com/wV5ezHwg-P-WEeG1pesrNpNBSDATqnTxr4ZTah_wld3ZXW-DbVmAXeAfq5qlyH6OvuKZttRF0nn2K0aaV8SvcI967Q",
+        "img_5": "https://lh3.googleusercontent.com/G23HGLZX7yNkzKWDe8oXRjIGgfznxgg-jKNTmtD2L4MMRPrSuI-77FcNJTK3xEyT2AbOfumIysFx-U3A78TxwbJQyw",
+        "img_6": "https://lh3.googleusercontent.com/MJwNNAhQaXFPTjlofNHh8wcL7Aftu4h0yDP5FTrGC5WZsb9iL9vEIn14Tlgh4K_1y3JIuGh13A1zVw7vdnJW23pLtZ0"
+    },
+    "contact": {
+        "header":"Let's Collaborate!",
+        "subheader": "If you're interested in working with me, fill out the form below and I will get back to you right away!"
+
+    }
+}
